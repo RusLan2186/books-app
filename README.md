@@ -2,9 +2,10 @@
 
 A React application that displays a catalog of books using Material UI DataGrid. Data is loaded from the Open Library Search API and presented in an interactive table with sorting, filtering, and detailed book information.
 
+** Demo: ** https://books-catalog-2026.netlify.app/
+
 ## Features
 
-- **Advanced Table Interactivity**:
   - Loading book data from Open Library Search API.
   - Displaying a book catalog using MUI DataGrid.
   - Sorting, filtering, and state persistence for the table.
